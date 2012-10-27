@@ -1,0 +1,19 @@
+Top 6 Projects, 2-3 sentences each.
+
+1. Materials Project Center for Functional Electronic Materials. The Materials Project is a high-throughput framework developed by MIT and LBNL and subsequently extended by collaborators at the Lawrence Berkeley Laboratory and National Energy Research Scientific Computing (NERSC). This Center, funded by the DOE BES Predictive Theory and Modeling for Materials and Chemical Sciences program, will extend the Materials Project with high-throughput calculations, state-of-the-art electronic structure methods as well as novel data mining algorithms for surface, defect, electronic and finite temperature property predictions -- to yield an unparalleled materials design environment.
+Personnel: Dan Gunter
+
+2. Template Interfaces for Agile Parallel Data-Intensive Science (Tigres). Enabling collaborative analysis of DOE Science data through a new concept of reusable "templates" that enable scientists to easily compose, run, and manage collaborative computational tasks.
+Personnel: Deb Agarwal, Lavanya Ramakrishnan, Dan Gunter
+
+3. ESnet eXtensible SNMP System. Transition current tools to use a more scalable data storage backend, time series data modeling and development of new analytics tools.
+Personnel: Monte Goode
+
+4. Assembly likelihood estimation (ALE). Error prediction, and quantification of genome assembly
+Personnel: Taghrid Samak
+
+5. KBase. The Systems Biology Knowledgebase (KBase) is a collaborative effort designed to accelerate our understanding of microbes, microbial communities, and plants. It will be a community-driven, extensible and scalable open-source software framework and application system. Our team is helping with design and development of the user interfaces through a user-centered design process.
+Personnel: Dan Gunter, Sarah Poon
+
+6. IRMO: Infrastructure Strategy to Support Collaboration. Providing elastic compute and data on virtualized cloud environments. Evaluate methods in context of ATLAS and STAR
+Personnel: Lavanya Ramakrishnan
