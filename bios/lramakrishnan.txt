@@ -1,1 +1,22 @@
-Lavanya Ramakrishnan joined LBL as an Alvarez Postdoctoral Fellow in 2009. She complete her doctoral degree from Indiana University, Bloomington in June 2009. Previously, she was a research staff member at MCNC and the Renaissance Computing Institute (RENCI) in North Carolina. Her research focus is on resource and workflow management for scientific applications in grid and cloud environments. Her master’s degree is in Computer Science from Indiana University and her bachelor’s degree is in Computer Engineering from the University of Mumbai in India.
+Lavanya Ramakrishnan is a scientist in the Advanced Computing for
+Science department at Lawrence Berkeley National Lab. Her research
+interests are in software tools for computational and data-intensive
+science. Currently, she is actively engaged in projects exploring
+programming templates for data analysis workflow composition and data
+management techniques for elastic transient environments. She is also
+involved in projects evaluating cloud and big data technologies such
+as Hadoop and NoSQL databases for scientific applications and
+performance, energy and fault-tolerance trade-offs in infrastructure
+strategies. Ramakrishnan has also worked closely with scientists from
+multiple domains including bioinformatics, biomedical science,
+storm-surge modeling, weather modeling, high-energy physics and light
+source facilities.
+
+She has previously worked as a research staff member at
+Renaissance Computing Institute and MCNC in North Carolina. She has
+masters and doctoral degrees from Indiana University and a bachelor
+degree in computer engineering from VJTI, University of Mumbai. She
+joined LBL as an Alvarez Postdoctoral Fellow in 2009.
+
+
+
