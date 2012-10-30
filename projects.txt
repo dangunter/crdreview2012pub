@@ -1,42 +1,37 @@
-Top 6 Projects, 2-3 sentences each.
+Advanced Computing for Science Department
+Data Intensive Systems Group
 
-1. Materials Project Center for Functional Electronic Materials. The Materials Project is a high-throughput framework developed by MIT and LBNL and subsequently extended by collaborators at the Lawrence Berkeley Laboratory and National Energy Research Scientific Computing (NERSC). This Center, funded by the DOE BES Predictive Theory and Modeling for Materials and Chemical Sciences program, will extend the Materials Project with high-throughput calculations, state-of-the-art electronic structure methods as well as novel data mining algorithms for surface, defect, electronic and finite temperature property predictions -- to yield an unparalleled materials design environment.
-Personnel: Dan Gunter
+Projects
+========
 
-2. Template Interfaces for Agile Parallel Data-Intensive Science (Tigres). Enabling collaborative analysis of DOE Science data through a new concept of reusable "templates" that enable scientists to easily compose, run, and manage collaborative computational tasks.
-Personnel: Deb Agarwal, Lavanya Ramakrishnan, Dan Gunter
+1. Materials Project Center for Functional Electronic Materials
+
+The Materials Project is a high-throughput framework developed by MIT and LBNL and subsequently extended by collaborators at the Lawrence Berkeley Laboratory and National Energy Research Scientific Computing (NERSC). The Center for Functional Electronic Materials, funded by the DOE BES Predictive Theory and Modeling for Materials and Chemical Sciences program, will extend the Materials Project with high-throughput calculations, electronic structure methods as well as novel data mining algorithms for surface, defect, electronic and finite temperature property predictions. We are working on the database and data integration infrastructure to enable the new calculations and integrate them with with envisioned online "materials design environment".
+
+2. Template Interfaces for Agile Parallel Data-Intensive Science (Tigres). 
 
 DOE User Facilities and large science collaborations are increasingly
 generating large datasets. Analysis of this data requires an ability
-to compose at the desktop and easily scale to run at HPC facilities,
-but with current technologies, scaling an analysis to an HPC center
+to compose at the desktop and easily scale to run at HPC facilities.
+However, with current technologies, scaling an analysis to an HPC center
 and to a large dataset is difficult even for experts. Tigres is
 addressing the challenge of enabling collaborative analysis of DOE
 Science data through a new concept of reusable computational patterns
 or "templates" that enable scientists to easily compose, run, and
 manage collaborative computational tasks. 
 
+3. ESnet eXtensible SNMP System.
 
-3. ESnet eXtensible SNMP System. Transition current tools to use a more scalable data storage backend, time series data modeling and development of new analytics tools.
-Personnel: Monte Goode
+ESxSNMP is a system developed at ESnet for collecting and storing large sets of SNMP time-series measurements from network routers and devices. All data is available via a REST style interface (as JSON) allowing for easy integration with other tools. ESxSNMP provides linkage to perfSONAR and to the Graphite graphing package. Originally, ESxSNMP used a hybrid model for storing data, with a custom storage format (TSDB) for time series data and an SQL database for everything else. We are working with ESnet to migrate ESxSNMP from the custom hybrid back-end to a more standard single solution using the NoSQL database MongoDB.
 
-4. Assembly likelihood estimation (ALE). Error prediction, and quantification of genome assembly
-Personnel: Taghrid Samak
+4. Assembly likelihood estimation (ALE)
 
-5. KBase. The Systems Biology Knowledgebase (KBase) is a collaborative effort designed to accelerate our understanding of microbes, microbial communities, and plants. It will be a community-driven, extensible and scalable open-source software framework and application system. Our team is helping with design and development of the user interfaces through a user-centered design process.
-Personnel: Dan Gunter, Sarah Poon
+ALE is a probabalistic framework for determining the likelihood of an assembly given the data (raw reads) used to assemble it. It allows for the rapid discovery of errors and comparisons between similar assemblies. Currently ALE reports errors using a combined likelihood metric (the "ALE score"). This metric does not directly indicate which of a number of known, distinct types of assembly errors caused the outlier. We are working with the ALE developers at JGI to use machine learning techniques to predict the type of error (e.g. insertion or deletion) most likely to be associated with large ALE scores in a genome assembly.
 
-6. IRMO: Infrastructure Strategy to Support Collaboration. Scientific
-collaborations/communities require an elastic, transient
-infrastructure strategy that will enable opportunities for data
-analysis, data movement, and data storage. Building on the experiences
-of the Magellan project, we adapt and extend the recently emerged
-trends, in particular cloud computing and virtualization, to define,
-investigate, and develop tools allowing providers to provide a
-resource model with provisioning offers, in particular elastic,
-autoscaling, and integrated compute and storage
-resources. Specifically, at LBNL we are focused on an effective,
-efficient, flexible, robust data-managent solution suited for
-different data access patterns for scientific applications.
+5. The Systems Biology Knowledgebase (KBase) 
 
-Personnel: Lavanya Ramakrishnan
+KBase is a collaborative effort designed to accelerate our understanding of microbes, microbial communities, and plants. It will be a community-driven, extensible and scalable open-source software framework and application system. Our team is helping with design and development of the KBase user interfaces through a user-centered design process. Our focus is on the "narrative" interface that will be many users' gateway to KBase functionality, .
+
+6. Infrastructure Strategy to Support Collaboration (IRMO)
+
+Scientific collaborations and communities require an elastic, transient infrastructure strategy for data analysis, data movement, and data storage. Building on the experiences of the Magellan project, IRMO adapts and extends cloud computing and virtualization to create a resource provisioning model for scientific collaborations with elastic, autoscaling, and integrated compute and storage resources. At LBNL, we are focused on enabling critical data access patterns for scientific applications with an effective, efficient, flexible, robust data management solution.
