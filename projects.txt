@@ -6,6 +6,17 @@ Personnel: Dan Gunter
 2. Template Interfaces for Agile Parallel Data-Intensive Science (Tigres). Enabling collaborative analysis of DOE Science data through a new concept of reusable "templates" that enable scientists to easily compose, run, and manage collaborative computational tasks.
 Personnel: Deb Agarwal, Lavanya Ramakrishnan, Dan Gunter
 
+DOE User Facilities and large science collaborations are increasingly
+generating large datasets. Analysis of this data requires an ability
+to compose at the desktop and easily scale to run at HPC facilities,
+but with current technologies, scaling an analysis to an HPC center
+and to a large dataset is difficult even for experts. Tigres is
+addressing the challenge of enabling collaborative analysis of DOE
+Science data through a new concept of reusable computational patterns
+or "templates" that enable scientists to easily compose, run, and
+manage collaborative computational tasks. 
+
+
 3. ESnet eXtensible SNMP System. Transition current tools to use a more scalable data storage backend, time series data modeling and development of new analytics tools.
 Personnel: Monte Goode
 
@@ -15,5 +26,17 @@ Personnel: Taghrid Samak
 5. KBase. The Systems Biology Knowledgebase (KBase) is a collaborative effort designed to accelerate our understanding of microbes, microbial communities, and plants. It will be a community-driven, extensible and scalable open-source software framework and application system. Our team is helping with design and development of the user interfaces through a user-centered design process.
 Personnel: Dan Gunter, Sarah Poon
 
-6. IRMO: Infrastructure Strategy to Support Collaboration. Providing elastic compute and data on virtualized cloud environments. Evaluate methods in context of ATLAS and STAR
+6. IRMO: Infrastructure Strategy to Support Collaboration. Scientific
+collaborations/communities require an elastic, transient
+infrastructure strategy that will enable opportunities for data
+analysis, data movement, and data storage. Building on the experiences
+of the Magellan project, we adapt and extend the recently emerged
+trends, in particular cloud computing and virtualization, to define,
+investigate, and develop tools allowing providers to provide a
+resource model with provisioning offers, in particular elastic,
+autoscaling, and integrated compute and storage
+resources. Specifically, at LBNL we are focused on an effective,
+efficient, flexible, robust data-managent solution suited for
+different data access patterns for scientific applications.
+
 Personnel: Lavanya Ramakrishnan
