@@ -1,4 +1,8 @@
-Awards (not in the pages) 
+
+Awards
+======
+Advanced Computing for Science Department
+Data Intensive Computing Group
 
 D. Ghoshal, R. S. Canon, and L. Ramakrishnan, “I/o performance of virtualized cloud
 environments,” in The Second International Workshop on Data Intensive Computing in
@@ -11,5 +15,3 @@ on Cloud Computing Technology and Science, 2010  Best Paper Award.
 
 
 HPCWire Best Use of HPC in the Cloud - Magellan (2010,2011)
-
-
