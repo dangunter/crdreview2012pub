@@ -1,0 +1,15 @@
+Awards (not in the pages) 
+
+D. Ghoshal, R. S. Canon, and L. Ramakrishnan, “I/o performance of virtualized cloud
+environments,” in The Second International Workshop on Data Intensive Computing in
+the Clouds (DataCloud-SC11), 2011 Best Paper Award.
+
+K. Jackson, L. Ramakrishnan, K. Muriki, S. Canon, S. Cholia, J. Shalf, H. Wasserman,
+and N. Wright, “Performance Analysis of High Performance Computing Applications
+on the Amazon Web Services Cloud,” in 2nd IEEE International Conference
+on Cloud Computing Technology and Science, 2010  Best Paper Award.
+
+
+HPCWire Best Use of HPC in the Cloud - Magellan (2010,2011)
+
+
